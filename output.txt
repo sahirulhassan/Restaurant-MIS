@@ -1,0 +1,423 @@
+   Welcome to Hassan Cafe!
+******************************
+
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+1
+                            Inventory Menu
+**********************************************************************
+
+Press 1 to view inventory
+Press 2 to increase/decrease inventory items
+Press 3 to add new items and/or update quantity of items
+Press 4 to delete an item from inventory
+Press 0 to go back to main menu
+1
+Pots And Pans                                     30
+Cooking Utensils                                  50
+Cutting Boards                                    70
+Knives                                            25
+Mixing Bowls                                      40
+Kitchen Scales                                    60
+Measuring Cups And Spoons                         30
+Fresh Produce                                     50
+Meat And Poultry                                  40
+Seafood                                           50
+Dairy Products                                    30
+Herbs And Spices                                  90
+Condiments And Sauces                             80
+Dry Goods                                         50
+Condiments And Dressings                          70
+Beverages                                         60
+Canned Goods                                      80
+Dry Pasta And Rice                                90
+Flour And Sugar                                   30
+Condiments                                        30
+Coffee And Tea                                    20
+Dish Soap                                         20
+Sanitizing Wipes                                  10
+Trash Bags                                        40
+Broom And Mop                                     10
+Cleaning Cloths                                   20
+All-Purpose Cleaner                               20
+Napkins                                           30
+Paper Towels                                      60
+Disposable Cutlery And Plates                     40
+To-Go Containers                                  20
+Straws And Stirrers                               40
+Ovens                                             10
+Stovetops                                         10
+Grills                                            10
+Fryers                                            10
+Microwaves                                        10
+Food Processors                                   10
+Plates, Bowls, And Glasses                        80
+Silverware                                        100
+Serving Trays                                     80
+Tablecloths                                       50
+Menu Cards                                        20
+Alcoholic Beverages                               50
+Mixers                                            20
+Barware                                           60
+Ice Buckets                                       20
+Garnishes                                         40
+First Aid Kit                                     10
+Fire Extinguisher                                 10
+Tomato                                            190
+
+Press 1 to view inventory
+Press 2 to increase/decrease inventory items
+Press 3 to add new items and/or update quantity of items
+Press 4 to delete an item from inventory
+Press 0 to go back to main menu
+0
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+2
+                                 Menu
+**********************************************************************
+
+Press 1 to view the menu
+Press 2 to add new or update existing the menu items
+Press 3 to remove menu items
+Press 4 to change servings available
+Press 5 to change cost of dishes
+Press 0 to go back to the main menu.
+1
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back
+1
+                            Breakfast Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dish                                                   Available   Price
+
+Classic Breakfast                                         15      1600
+Vegetarian Breakfast                                      15      1300
+Pancake Stack                                             20      1000
+Breakfast Burrito                                         20       900
+Avocado Toast                                             25       600
+French Toast                                              30       700
+Fruit Parfait                                             10      1100
+Bagel With Smoked Salmon                                  10      1400
+Protein Smoothie                                          25       900
+Blueberry Muffin                                          30       400
+Breakfast Wrap                                            20       750
+Cinnamon Roll                                             35       500
+Breakfast Bowl                                            15       800
+Egg And Cheese Croissant                                  15       600
+Waffle With Fruit Compote                                 10       450
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back
+2
+                              Lunch Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Dish                                                   Available   Price
+
+Classic Burger                                            20       600
+Caprese Salad                                              9      1100
+Grilled Cheese Sandwich                                   12       400
+Chicken Quesadilla                                        10       800
+Caesar Salad With Grilled Chicken                         15       900
+Margherita Pizza                                           8      1000
+Vegetable Stir-Fry                                        20       600
+Blt Sandwich                                              20       500
+Chicken Caesar Wrap                                       25       400
+Shrimp Pasta                                               3       900
+Teriyaki Chicken Bowl                                      9       550
+Mushroom And Swiss Burger                                 15       800
+Vegan Buddha Bowl                                          3       450
+Tomato Basil Soup With Grilled Cheese                     14       550
+Mediterranean Wrap                                        15       750
+Biryani                                                   20       250
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back
+3
+                             Dinner Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Dish                                                   Available   Price
+
+Grilled Ribeye Steak                                      25      2500
+Salmon With Lemon-Dill Sauce                              20      3000
+Vegetarian Lasagna                                        15      1200
+Bbq Pulled Pork                                           18      3200
+Chicken Alfredo                                           30      1600
+Seared Scallops                                           18      2000
+Eggplant Parmesan                                         13      1200
+Beef Stroganoff                                           17      1900
+Stuffed Bell Peppers                                      20       800
+Teriyaki Glazed Tofu                                      25      2200
+Roast Chicken With Herbs                                  30      2400
+Lobster Tail With Garlic Butter                           25      3200
+Spaghetti Bolognese                                       18      1800
+Ratatouille                                                8      1900
+Beef And Broccoli Stir-Fry                                18      2300
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back
+0
+Press 1 to view the menu
+Press 2 to add new or update existing the menu items
+Press 3 to remove menu items
+Press 4 to change servings available
+Press 5 to change cost of dishes
+Press 0 to go back to the main menu.
+0
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+3
+                              POS System
+**********************************************************************
+
+Enter user's name:
+sahirulhassan
+Breakfast Menu Available.
+Enter dish: breakfast bowl
+Enter quantity: 2
+
+Enter next item? y/n: y
+Breakfast Menu Available.
+Enter dish: pancake stack
+Enter quantity: 1
+
+Enter next item? y/n: n
+                               Hassan's Cafe
+********************************************************************************
+                               Order No: 21
+User: sahirulhassan                                  Time: 01/15/24 at 00:35
+................................................................................
+Dish                          Quantity            Rate                Amount
+................................................................................
+
+Breakfast Bowl                       2             800                  1600
+Pancake Stack                        1            1000                  1000
+--------------------------------------------------------------------------------
+
+                                                   Net:                 2600
+                                                   GST:                338.0
+
+                                                   Total:             2938.0
+
+Press Y to make another entry. Press anything else to go back.
+n
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+4
+           Feedback
+******************************
+
+Press 1 to add feedback
+Press 2 to view feedbacks
+Press 0 to go back to the main menu
+1
+
+Enter Order No.: 17
+Enter customer name: Saboor
+Enter feedback here: Do not come here. 2/10
+
+Press 1 to add feedback
+Press 2 to view feedbacks
+Press 0 to go back to the main menu
+2
+Order No.: 11
+Customer Name: Sahir
+Remarks:
+10/10 would not come here. Their MIS sucks!
+
+
+Order No.: 12
+Customer Name: Usman
+Remarks:
+Lovedit
+
+
+Order No.: 13
+Customer Name: Ali
+Remarks:
+Bekaar
+
+
+Order No.: 14
+Customer Name: Sadat
+Remarks:
+Best hai
+
+
+Order No.: 15
+Customer Name: fakhir
+Remarks:
+Best hai
+
+
+Order No.: 17
+Customer Name: Saboor
+Remarks:
+Do not come here. 2/10
+
+
+Press 1 to add feedback
+Press 2 to view feedbacks
+Press 0 to go back to the main menu
+0
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+5
+                                            Sale History
+****************************************************************************************************
+
+{15: [{'beef and broccoli stir-fry': [2, 2300, 4600]}, [598.0, 5198.0, '01/14/24 at 18:15']]}
+
+{16: [{'ratatouille': [1, 1900, 1900]}, {'spaghetti bolognese': [1, 1800, 1800]}, [481.0, 4181.0, '01/14/24 at 19:02']]}
+
+{17: [{'spaghetti bolognese': [1, 1800, 1800]}, {'spaghetti': [1, 1800, 1800]}, [468.0, 4068.0]]}
+
+{18: [{'ratatouille': [1, 1900, 1900]}, [247.0, 2147.0]]}
+
+{19: [{'beef stroganoff': [3, 1900, 5700]}, {'eggplant parmesan': [2, 1200, 2400]}, [1053.0, 9153.0]]}
+
+{20: [{'bbq pulled pork': [2, 3200, 6400]}, {'seared scallops': [2, 2000, 4000]}, [1352.0, 11752.0]]}
+
+{21: [{'breakfast bowl': [2, 800, 1600]}, {'pancake stack': [1, 1000, 1000]}, [338.0, 2938.0]]}
+
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+6
+                      Stats
+**************************************************
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back to the main menu
+1
+                  Breakfast Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dish                                    Items Sold
+
+Classic Breakfast                       0
+Vegetarian Breakfast                    0
+Pancake Stack                           1
+Breakfast Burrito                       0
+Avocado Toast                           0
+French Toast                            0
+Fruit Parfait                           0
+Bagel With Smoked Salmon                0
+Protein Smoothie                        0
+Blueberry Muffin                        0
+Breakfast Wrap                          0
+Cinnamon Roll                           0
+Breakfast Bowl                          2
+Egg And Cheese Croissant                0
+Waffle With Fruit Compote               0
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back to the main menu
+2
+                    Lunch Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dish                                    Items Sold
+
+Classic Burger                          0
+Caprese Salad                           1
+Grilled Cheese Sandwich                 3
+Chicken Quesadilla                      0
+Caesar Salad With Grilled Chicken       0
+Margherita Pizza                        0
+Vegetable Stir-Fry                      0
+Blt Sandwich                            0
+Chicken Caesar Wrap                     0
+Shrimp Pasta                            0
+Teriyaki Chicken Bowl                   0
+Mushroom And Swiss Burger               0
+Vegan Buddha Bowl                       0
+Tomato Basil Soup With Grilled Cheese   0
+Mediterranean Wrap                      0
+Biryani                                 0
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back to the main menu
+3
+                   Dinner Menu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dish                                    Items Sold
+
+Grilled Ribeye Steak                    0
+Salmon With Lemon-Dill Sauce            0
+Vegetarian Lasagna                      0
+Bbq Pulled Pork                         2
+Chicken Alfredo                         0
+Seared Scallops                         2
+Eggplant Parmesan                       2
+Beef Stroganoff                         3
+Stuffed Bell Peppers                    0
+Teriyaki Glazed Tofu                    0
+Roast Chicken With Herbs                0
+Lobster Tail With Garlic Butter         0
+Spaghetti Bolognese                     2
+Ratatouille                             2
+Beef And Broccoli Stir-Fry              2
+
+Press 1 for Breakfast
+Press 2 for Lunch
+Press 3 for Dinner
+Press 0 to go back to the main menu
+0
+Press 1 for inventory
+Press 2 for Menu
+Press 3 for POS
+Press 4 for Feedback
+Press 5 for Sales History
+Press 6 to View Stats
+Press 0 to exit program
+0
